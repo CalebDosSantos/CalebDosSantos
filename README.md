@@ -9,8 +9,8 @@ Sou certificado como administrador de sistemas Linux.
 
  <div align="center">
   <a href="https://github.com/caleb-santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caleb-santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caleb-santos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CalebDosSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebDosSantos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -43,6 +43,6 @@ Sou certificado como administrador de sistemas Linux.
   <a href="https://www.linkedin.com/in/caleb-santos-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-  ![Snake animation](https://github.com/caleb-santos/caleb-santos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CalebDosSantos/CalebDosSantos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
