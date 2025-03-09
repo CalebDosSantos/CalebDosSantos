@@ -27,7 +27,7 @@ Sou certificado como administrador de sistemas Linux.
  <img align="center" alt="Caleb-Shell" height="30" width="100" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
  
   <!-- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
- <! -- <div> <img align="left" alt="Rafa-yoda" src="http://4.bp.blogspot.com/-wMXZQbRaGIc/U3thFcnGcuI/AAAAAAAAHIY/RstQ62lw8dg/s1600/Super+Nintendo+2.gif"></div> -->
+ <!-- <div> <img align="left" alt="Rafa-yoda" src="http://4.bp.blogspot.com/-wMXZQbRaGIc/U3thFcnGcuI/AAAAAAAAHIY/RstQ62lw8dg/s1600/Super+Nintendo+2.gif"></div> -->
 </div> 
   
   ##
