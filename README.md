@@ -2,8 +2,8 @@
 
 ## Olá! Eu sou Caleb dos Santos 
 
-Meu nome é Caleb dos Santos, eu sou um entusiasta de Neovim, Tmux e Dotfiles elegantes. Tenho experiência com desenvolvimento web, especificamente Laravel, administração de banco de dados MySQL, servidores web, conteinerização com Docker e versionamento de código com Git. 
-Sou certificado como administrador de sistemas Linux.
+<!-- Meu nome é Caleb dos Santos, eu sou um entusiasta de Neovim, Tmux e Dotfiles elegantes. Tenho experiência com desenvolvimento web, especificamente Laravel, administração de banco de dados MySQL, servidores web, conteinerização com Docker e versionamento de código com Git. 
+Sou certificado como administrador de sistemas Linux. -->
 
 
 
